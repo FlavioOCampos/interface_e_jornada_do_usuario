@@ -12,7 +12,7 @@ Evolução do wireframe para um protótipo navegável com foco em experiência d
 - Figma  
 
 ## 🔗 Protótipo
-[Acessar Protótipo no Figma]([figma.com/proto/LmPkKMGMUIEUjrAPYqO5TT/ProjectTwo?node-id=0-1](https://www.figma.com/proto/LmPkKMGMUIEUjrAPYqO5TT/ProjectTwo?node-id=1-2&starting-point-node-id=1%3A2&t=zOL2mXVknzO4RjNH-1))
+[Acessar Protótipo no Figma]([figma.com/proto/LmPkKMGMUIEUjrAPYqO5TT/ProjectTwo?node-id=0-1](https://www.figma.com/proto/LmPkKMGMUIEUjrAPYqO5TT/ProjectTwo?node-id=1-2&starting-point-node-id=1%3A2&t=zOL2mXVknzO4RjNH-1)
 
 ## 💡 Observações
 Este projeto representa a evolução da interface com foco em interação e experiência do usuário.
