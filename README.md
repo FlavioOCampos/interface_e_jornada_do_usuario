@@ -1,43 +1,93 @@
 # Interface ao Usuário (UX/UI)
 
-Este repositório reúne as atividades desenvolvidas na disciplina **Interface e Jornada do Usuário**, do curso de Análise e Desenvolvimento de Sistemas.
+Este repositório documenta minha evolução na disciplina **Interface e Jornada do Usuário**, do curso de Análise e Desenvolvimento de Sistemas (UDF).
+
+O foco da disciplina é o desenvolvimento de interfaces digitais centradas no usuário, aplicando conceitos de UX (User Experience), UI (User Interface), usabilidade e acessibilidade.
+
+---
 
 ## 🎯 Objetivo da Disciplina
 
-A disciplina tem como objetivo desenvolver competências em criação de interfaces digitais e experiência do usuário (UX), abordando desde wireframes até prototipação e testes de usabilidade.
+Desenvolver habilidades para projetar interfaces intuitivas, acessíveis e eficientes, com base em princípios de design centrado no usuário, análise de jornadas e testes de usabilidade.
 
-## 🧠 Conteúdos Trabalhados
+---
 
-- Wireframes mobile
-- Jornada do usuário
-- Testes de usabilidade
-- Prototipação de média fidelidade
-- UX/UI (experiência e interface)
-- Desenvolvimento de soluções digitais
+## 🧠 Competências Desenvolvidas
 
-## 📂 Estrutura das Atividades
+### 🔹 Cognitivas
+- Design centrado no usuário  
+- Arquitetura da informação  
+- Conceitos de acessibilidade e usabilidade  
+- Análise da jornada do usuário  
 
-### 📁 Exercicio 01 – Wireframe Mobile
-- Tarefa do usuário
-- Jornada de usabilidade
-- Situações-problema
-- Roteiro de testes
-- Formulário de avaliação
+### 🔹 Técnicas (Habilidades)
+- Criação de wireframes e protótipos navegáveis  
+- Uso de ferramentas como Figma  
+- Aplicação de testes de usabilidade  
+- Interpretação de feedback e melhoria contínua  
 
-### 📁 Exercicio 02 – Protótipo de Média Fidelidade
-- Desenvolvimento de protótipo
-- Briefing do projeto
-- Teste de usabilidade
-- Avaliação e ajustes
+### 🔹 Comportamentais (Atitudes)
+- Empatia com o usuário  
+- Pensamento crítico sobre interfaces  
+- Responsabilidade no desenvolvimento de soluções digitais  
+- Consideração de aspectos éticos e inclusivos  
 
-### 📁 Projeto Final – IA Prototipada
-- Desenvolvimento de solução com IA
-- Protótipo completo
-- Apresentação do projeto
-- Resultados e validação
+---
+
+## 📚 Conteúdo Programático
+
+### Unidade I – Fundamentos de Interação Humano-Computador
+- Design centrado no usuário  
+- Personas e jornada do usuário  
+- Prototipação em baixa fidelidade  
+
+### Unidade II – Prototipagem
+- Wireframes e protótipos navegáveis  
+- Ferramentas (Figma, etc.)  
+- Feedback e melhoria contínua  
+
+### Unidade III – Design Visual e Acessibilidade
+- Cores, tipografia e hierarquia  
+- Acessibilidade digital (WCAG)  
+- Princípios de design visual  
+
+### Unidade IV – Testes de Usabilidade
+- Métodos de avaliação  
+- Testes com usuários  
+- Análise de resultados  
+
+---
+
+## 📂 Estrutura do Repositório
+
+### 📁 Exercicio_01_wireframe_mobile
+Desenvolvimento de wireframe mobile com foco na jornada do usuário e testes de usabilidade.
+
+### 📁 Exercicio_02_prototipo_media_fidelidade
+Criação de protótipo navegável e validação da interface com usuários.
+
+### 📁 Projeto_Final_IA_prototipada
+Desenvolvimento de solução digital com aplicação de IA e foco em UX/UI.
+
+---
+
+## 🛠 Ferramentas Utilizadas
+
+- Figma  
+- GitHub  
+- Conceitos de UX/UI  
+- Métodos de Design Thinking e Design Sprint  
+
+---
 
 ## 🚀 Objetivo Profissional
 
 Este repositório faz parte da minha transição de carreira para a área de tecnologia, com foco em desenvolvimento de sistemas e experiência do usuário.
 
-🔗 GitHub: https://github.com/FlavioOCampos
+Minha proposta é unir minha experiência anterior em projetos (Arquitetura) com o desenvolvimento de soluções digitais centradas no usuário.
+
+---
+
+## 🔗 Links
+
+- GitHub: https://github.com/FlavioOCampos
