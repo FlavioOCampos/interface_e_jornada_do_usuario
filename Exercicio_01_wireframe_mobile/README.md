@@ -1,25 +1,18 @@
 # Exercício 01 – Wireframe Mobile
 
 ## 📌 Descrição
-Desenvolvimento de wireframe mobile com foco na tarefa do usuário e na jornada de usabilidade.
+Desenvolvimento de wireframe mobile com foco na jornada do usuário e usabilidade.
 
 ## 🎯 Objetivo
-- Definir a tarefa principal do usuário
-- Mapear a jornada de uso
-- Criar wireframes mobile
-- Avaliar a usabilidade da interface
+- Definir tarefa do usuário  
+- Mapear jornada de uso  
+- Criar estrutura inicial da interface  
 
-## 🛠 Atividades
-- Definição de situações-problema
-- Criação de wireframe
-- Desenvolvimento de roteiro de testes
-- Aplicação de testes de usabilidade
-- Coleta de feedback
+## 🛠 Ferramenta Utilizada
+- Figma  
 
-## 📎 Entregáveis
-- Wireframe mobile
-- Roteiro de teste
-- Formulário de avaliação
+## 🔗 Protótipo
+[Acessar Wireframe no Figma]([COLE_SEU_LINK_AQUI](https://www.figma.com/proto/KmvbFCer5UJBdlyHW8ZmOY/App_LifeSuporte_consulta?node-id=7-31&starting-point-node-id=7%3A31))
 
-## 💡 Resultados Esperados
-Melhoria da clareza da interface e facilidade de uso.
+## 💡 Observações
+Este projeto representa a etapa inicial de estruturação da interface, focando na organização das informações e fluxo do usuário.
