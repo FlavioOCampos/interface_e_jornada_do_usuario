@@ -1,23 +1,18 @@
 # Exercício 02 – Protótipo de Média Fidelidade
 
 ## 📌 Descrição
-Criação de protótipo de média fidelidade com base nos conceitos de UX/UI e testes de usabilidade.
+Evolução do wireframe para um protótipo navegável com foco em experiência do usuário.
 
 ## 🎯 Objetivo
-- Evoluir o wireframe para protótipo
-- Melhorar a interface do usuário
-- Validar a usabilidade do sistema
+- Melhorar a interface  
+- Criar navegação entre telas  
+- Validar usabilidade  
 
-## 🛠 Atividades
-- Desenvolvimento de protótipo no Figma
-- Criação de briefing do projeto
-- Aplicação de testes de usabilidade
-- Ajustes com base em feedback
+## 🛠 Ferramenta Utilizada
+- Figma  
 
-## 📎 Entregáveis
-- Protótipo funcional
-- Roteiro de testes
-- Resultados da avaliação
+## 🔗 Protótipo
+[Acessar Protótipo no Figma](figma.com/proto/LmPkKMGMUIEUjrAPYqO5TT/ProjectTwo?node-id=0-1)
 
-## 💡 Resultados Esperados
-Interface mais intuitiva e eficiente para o usuário.
+## 💡 Observações
+Este projeto representa a evolução da interface com foco em interação e experiência do usuário.
